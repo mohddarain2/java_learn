@@ -38,7 +38,7 @@ public class AllDatatypes {
         System.out.println("a"+a);
 
         System.out.println(a++ + " xx");
-        System.out.println(++a);
+        System.out.println(++a+ "Da");
 
         
     }
