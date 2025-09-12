@@ -34,10 +34,12 @@ public class AllDatatypes {
         int a = 10;
 
         // System.out.println(--a);
-        // System.out.println(a--);
-        // System.out.println(a);
+        System.out.println(a--);
+        System.out.println("a"+a);
 
-        System.out.println(a++);
+        System.out.println(a++ + " xx");
         System.out.println(++a);
+
+        
     }
 }
