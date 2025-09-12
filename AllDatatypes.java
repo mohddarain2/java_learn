@@ -16,7 +16,7 @@ public class AllDatatypes {
         System.out.println(f1);
 
         double d1 = 10.1111;
-        System.out.println(d1+"learn");
+        System.out.println(d1+"learning");
 
         char ch = '1';
         System.out.println(ch);
