@@ -7,5 +7,6 @@ public class Comparison_Operator {
         //System.out.println(b=a); // ans-> 10
         //System.out.println(a=b); // ans-> 20
         System.out.println(a<b);
+        System.out.println(a>b);
     }
 }
