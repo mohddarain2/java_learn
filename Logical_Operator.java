@@ -6,6 +6,6 @@ public class Logical_Operator {
            System.out.println(a==b && a==c); 
            System.out.println(a==b || a==c);
            System.out.println(!(a==b || a==c));
-           // daragyadjqdyuiujnbuyiid
+           
     }
 }
