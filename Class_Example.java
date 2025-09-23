@@ -16,7 +16,7 @@ class User {
     public int age = 10;
     public String name = "Darain";
 
-       void getData() {
+    public void getData() {
         System.out.println("get_Data");
         System.out.println(name);
     }

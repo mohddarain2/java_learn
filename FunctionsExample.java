@@ -8,7 +8,6 @@ public class FunctionsExample {
      sayHello(35);
       sayHello(20);
        sayHello(15);
-
     }
     public static void sayHello(int age){
         //System.out.println("Hello From Fuction");

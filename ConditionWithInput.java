@@ -10,5 +10,7 @@ public class ConditionWithInput{
         }else {
             System.out.println("you are not allowed");
         }
+        sc.close();
     }
+    
 }
