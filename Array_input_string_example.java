@@ -34,6 +34,7 @@ public class Array_input_string_example {
         Scanner scan = new Scanner(System.in);
         System.out.println("Enter Arrays ");
         String name[] = new String[x];
+        
         for(int i=0;i<x;i++){
             name[i]=scan.nextLine();
         }
