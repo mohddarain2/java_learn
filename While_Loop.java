@@ -10,7 +10,7 @@ public class While_Loop {
             data++; // 1 
             if(data%2==0){ // 1%2==0
 
-                System.out.println(data); // 
+                System.out.println(data); 
             }
         }
        //System.out.println(Num + " This value is large ");
