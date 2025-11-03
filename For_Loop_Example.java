@@ -17,5 +17,6 @@ public class For_Loop_Example{
                 // }
             System.out.println(i);
         }
+        sc.close();
     }
 }

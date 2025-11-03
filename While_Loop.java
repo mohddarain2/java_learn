@@ -14,5 +14,6 @@ public class While_Loop {
             }
         }
        //System.out.println(Num + " This value is large ");
+       sc.close();
     }
 }

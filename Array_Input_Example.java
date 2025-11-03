@@ -101,5 +101,6 @@ public class Array_Input_Example {
         for(int i=0; i<number;i++){
             System.out.println(arrays_value[i]);
         }
+        sc.close();
     }
 }
