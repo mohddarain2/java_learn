@@ -21,7 +21,7 @@ System.out.println("Darain");
         } else if (b > c) {
             System.out.println("b id greater");
         }else{
-            System.out.println("c is greater");
+            System.out.println("c is greater"); 
         }
     }
 }
